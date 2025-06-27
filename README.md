@@ -15,6 +15,8 @@ Each notebook demonstrates Python concepts, data handling, and machine learning 
 - Data Visualization
 - Introduction to Machine Learning
 
+---
+
 ### ✅ Week 2: Data Cleaning & Intermediate Machine Learning
 - Data Cleaning
 - Intermediate Machine Learning
@@ -41,31 +43,4 @@ Each notebook demonstrates Python concepts, data handling, and machine learning 
 
 ---
 
-## 📂 Folder Structure
 
-- `notebooks/`  
-  Contains organized notebooks by topic.
-
-- Main directory  
-  Additional example notebooks.
-
----
-
-## ✨ How to Use
-
-1. Download any `.ipynb` file.
-2. Open it in Jupyter Notebook or Google Colab.
-3. Run the cells to practice and explore.
-
----
-
-## 🛠️ Requirements
-
-- Python 3.x
-- Jupyter Notebook or JupyterLab
-
----
-
-## 📄 License
-
-This project is for educational purposes.
