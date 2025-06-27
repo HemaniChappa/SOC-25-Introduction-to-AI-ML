@@ -2,8 +2,6 @@
 # Kaggle Exercise Notebooks
 
 This repository contains Jupyter notebooks from Kaggle exercises and tutorials.  
-Each notebook demonstrates Python concepts, data handling, and machine learning workflows.
-
 ---
 
 ##  Weekly Learning Plan
